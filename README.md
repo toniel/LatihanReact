@@ -6,5 +6,5 @@
 4. jalankan perintah react-native run-android (emulator android harus terbuka)
 
 
-**ganti alamat api dengan alamat api masing2**
+**ganti alamat api dengan alamat api masing2**,
 **bagi yang sudah punya project sebelumnya, copykan saja folder src**
